@@ -1,0 +1,6 @@
+{
+  "name": "Signal Hunter AI",
+  "description": "An advanced wireless signal hunter and AI-powered network analyzer with futuristic neon visual tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
